@@ -13,7 +13,7 @@ selector {
   font-family: v-sans, v-mono, other-fallbacks;
 }
 
-/** available fonts weight are 400, 500 */
+/** available font weights are 400 and 500 */
 selector {
   font-weight: 400; /** regular */
 }
