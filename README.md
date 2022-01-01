@@ -37,6 +37,8 @@ selector {
   - font weight `400`, `600`
 - `Roboto.css`
   - font weight `400`, `500`
+- `RobotoSlab.css`
+  - font weight `400`, `500`
 ### `v-mono`
 - `FiraCode.css`
   - font weight `400`
