@@ -1,7 +1,7 @@
 {
-  "name": "z-vfonts",
-  "version": "0.0.1",
-  "description": "由 07akioni/vfonts 修改, 感谢 07akioni.",
+  "name": "vfonts",
+  "version": "0.0.3",
+  "description": "Integreted fonts for easy usage.",
   "scripts": {},
   "keywords": [
     "fonts",
@@ -9,6 +9,6 @@
     "css",
     "vue"
   ],
-  "author": "iZaiZaiA",
+  "author": "07akioni",
   "license": "MIT"
 }
